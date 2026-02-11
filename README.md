@@ -1,4 +1,4 @@
-# Quantum-RacingQuantum Racing | Electraton Suspension System
+# Quantum Racing | Electraton Suspension System
 Steering Knuckle Digitization
 Project Overview
 This repository contains the CAD development of a suspension steering knuckle for the Quantum Racing team, part of the Electraton electric vehicle competition.
