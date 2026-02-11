@@ -9,9 +9,9 @@ Technical Highlights
 
 High-Fidelity Modeling: Digitized the physical steering knuckle into a high-precision 3D model using SolidWorks.
 
-| Digitalized version of the steering knuckle | `media/podium.jpg` [Open Image](Media/KNUCKLE.jpg) |
+| Digitalized version of the steering knuckle | `media/KNUCKLE.jpg` [Open Image](Media/KNUCKLE.jpg) |
 
-| IRL version of steering knuckle | `media/podium.jpg` [Open Image](Media/IRLKNUCKLE.jpg) |
+| IRL version of steering knuckle | `media/IRLKNUCKLE.jpg` [Open Image](Media/IRLKNUCKLE.jpg) |
 
 
 # Key Results
